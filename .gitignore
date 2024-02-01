@@ -1,0 +1,11 @@
+# Ignore all the Unity's import/export
+# meta data files (with *.meta extension):
+**/*.meta
+# Ignore these folders completely
+# they will be filled by Unity when you
+# open the project for the first time:
+Logs/
+Library/
+Temp/
+obj/
+Packages/
