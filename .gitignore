@@ -4,8 +4,8 @@
 # Ignore these folders completely
 # they will be filled by Unity when you
 # open the project for the first time:
-Logs/
-Library/
-Temp/
-obj/
-Packages/
+Logs
+Library
+Temp
+obj
+Packages
