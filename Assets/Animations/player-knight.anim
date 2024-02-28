@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: skeleton
+  m_Name: player-knight
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,13 +21,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 21300000, guid: 45935c249352e4745b22e1538a01826c, type: 3}
+      value: {fileID: 21300000, guid: 26e755dea51744389a2e2a42bcfb47e9, type: 3}
     - time: 0.14285715
-      value: {fileID: 21300000, guid: 480b9298669f84f39a4a352b78645653, type: 3}
+      value: {fileID: 21300000, guid: 4176448af870d45baab9e0468277c8e0, type: 3}
     - time: 0.2857143
-      value: {fileID: 21300000, guid: 21516fb34e4be4762af2262091c02696, type: 3}
+      value: {fileID: 21300000, guid: f47d72d3f247842609fe818723d15418, type: 3}
     - time: 0.42857143
-      value: {fileID: 21300000, guid: 95dc5b22cbd85418c9455ef88bd64d84, type: 3}
+      value: {fileID: 21300000, guid: 24b4106f906ce454a8146f2f0d246867, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,10 +50,10 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 45935c249352e4745b22e1538a01826c, type: 3}
-    - {fileID: 21300000, guid: 480b9298669f84f39a4a352b78645653, type: 3}
-    - {fileID: 21300000, guid: 21516fb34e4be4762af2262091c02696, type: 3}
-    - {fileID: 21300000, guid: 95dc5b22cbd85418c9455ef88bd64d84, type: 3}
+    - {fileID: 21300000, guid: 26e755dea51744389a2e2a42bcfb47e9, type: 3}
+    - {fileID: 21300000, guid: 4176448af870d45baab9e0468277c8e0, type: 3}
+    - {fileID: 21300000, guid: f47d72d3f247842609fe818723d15418, type: 3}
+    - {fileID: 21300000, guid: 24b4106f906ce454a8146f2f0d246867, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

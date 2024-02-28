@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RogueIdle
+  m_Name: big_demon
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,15 +21,19 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 274715856, guid: 2cd18ba07a8114b09bb37d6c4c5fa7a5, type: 3}
-    - time: 0.33333334
-      value: {fileID: 1680080288, guid: 2cd18ba07a8114b09bb37d6c4c5fa7a5, type: 3}
+      value: {fileID: 21300000, guid: 2b8b1d041695b401c9b2ed878edb5035, type: 3}
+    - time: 0.14285715
+      value: {fileID: 21300000, guid: a7a0159c05dbd4003bd7c6726a562c08, type: 3}
+    - time: 0.2857143
+      value: {fileID: 21300000, guid: b2596e6639ce643909add388caffb6a9, type: 3}
+    - time: 0.42857143
+      value: {fileID: 21300000, guid: e6ee25c0c40804158a7c414ba270913f, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 3
+  m_SampleRate: 7
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -46,14 +50,16 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 274715856, guid: 2cd18ba07a8114b09bb37d6c4c5fa7a5, type: 3}
-    - {fileID: 1680080288, guid: 2cd18ba07a8114b09bb37d6c4c5fa7a5, type: 3}
+    - {fileID: 21300000, guid: 2b8b1d041695b401c9b2ed878edb5035, type: 3}
+    - {fileID: 21300000, guid: a7a0159c05dbd4003bd7c6726a562c08, type: 3}
+    - {fileID: 21300000, guid: b2596e6639ce643909add388caffb6a9, type: 3}
+    - {fileID: 21300000, guid: e6ee25c0c40804158a7c414ba270913f, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.6666667
+    m_StopTime: 0.5714286
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
