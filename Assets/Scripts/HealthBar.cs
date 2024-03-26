@@ -10,6 +10,10 @@ public class Monster : MonoBehaviour
     public void UpdateHealthBar(float currentValue, float maxValue)
     {
         slider.value = currentValue/maxValue;
+        if(currentValue <= 0)
+        {  
+            currentValue = maxValue;
+        }
     }
     // Update is called once per frame
     void Update()
